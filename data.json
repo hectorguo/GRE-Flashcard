@@ -1,116 +1,3039 @@
 [{
-    "name": "accidental",
-    "des": " adj. 意外发生的，偶然的： occurring unexpectedly or by chance",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "ad-lib",
-    "des": " adj. 即兴的： made or done without previous thought or preparation",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "adjunct",
-    "des": "adj. 即兴的： made or done without previous thought or preparation",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "automatic",
-    "des": " adj. 自发的，情不自禁的： acting or done spontaneously or unconsciously",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "extemporize",
-    "des": " v. 即席表现： to do or perform (something) without prior preparation or practice",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "fluky",
-    "des": " adj. 侥幸的： coming or happening by good luck especially unexpectedly",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "impromptu",
-    "des": " adj. 即席的，即兴的： composed without previous preparation",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "improvise",
-    "des": " v. 即兴而作： to invent, compose, or perform with little or no preparation",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "intuitive",
-    "des": " adj. 直觉的： knowing or perceiving by intuition",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "insight",
-    "des": "n. 深刻的理解： an instance of apprehending the true nature of a thing, especially through intuitive understanding",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "offhand",
-    "des": " adj. 即兴的，没有准备的： without premeditation or preparation",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "spontaneous",
-    "des": " adj. 自发的，不经思索的： acting or activated without apparent thought or deliberation",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "shrink",
-    "des": " v. 本能性地退却（如因遇到使人惊恐的某物）；退缩： to draw back instinctively, as from something alarming; recoil",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "unwitting",
-    "des": " adj. 偶然的，并非有意的： happening by chance; not intended",
-    "approx": "直觉的",
-    "anti": "推理的"
-}, {
-    "name": "calculated",
-    "des": " adj. 经过计算（成败得失）的，经过深思熟虑的： engaged in, undertaken, or displayed after reckoning or estimating the statistical probability of success or failure",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "commonsensical",
-    "des": "adj. 符合常识的，有依据的：displaying common sense，based on sound reasoning or information",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "contemplate",
-    "des": " vt./vi. 沉思，仔细思索： to view or consider with continued attention",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "deliberate",
-    "des": " adj. 深思熟虑的： characterized by or resulting from careful and thorough consideration",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "measured",
-    "des": " adj. 深思熟虑的，审慎的： deliberated, calculated",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "meditate",
-    "des": " vt. 思索，沉思： to focus one’s thoughts on",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "premeditate",
-    "des": " vi. 预先考虑： to think, consider, or deliberate beforehand",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "reflect",
-    "des": " vi. 思考： to think seriously",
-    "approx": "推理的",
-    "anti": "直觉的"
-}, {
-    "name": "ruminate",
-    "des": " vt. 沉思： to go over in the mind repeatedly and often casually or slowly",
-    "approx": "推理的",
-    "anti": "直觉的"
-}]
+        "name": "accidental",
+        "des": " adj. 意外发生的，偶然的： occurring unexpectedly or by chance",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "ad-lib",
+        "des": " adj. 即兴的： made or done without previous thought or preparation",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "adjunct",
+        "des": "adj. 即兴的： made or done without previous thought or preparation",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "automatic",
+        "des": " adj. 自发的，情不自禁的： acting or done spontaneously or unconsciously",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "extemporize",
+        "des": " v. 即席表现： to do or perform (something) without prior preparation or practice",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "fluky",
+        "des": " adj. 侥幸的： coming or happening by good luck especially unexpectedly",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "impromptu",
+        "des": " adj. 即席的，即兴的： composed without previous preparation",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "improvise",
+        "des": " v. 即兴而作： to invent, compose, or perform with little or no preparation",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "intuitive",
+        "des": " adj. 直觉的： knowing or perceiving by intuition",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "insight",
+        "des": "n. 深刻的理解： an instance of apprehending the true nature of a thing, especially through intuitive understanding",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "offhand",
+        "des": " adj. 即兴的，没有准备的： without premeditation or preparation",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "spontaneous",
+        "des": " adj. 自发的，不经思索的： acting or activated without apparent thought or deliberation",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "shrink",
+        "des": " v. 本能性地退却（如因遇到使人惊恐的某物）；退缩： to draw back instinctively, as from something alarming; recoil",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "unwitting",
+        "des": " adj. 偶然的，并非有意的： happening by chance; not intended",
+        "approx": "直觉的",
+        "anti": "推理的"
+    }, {
+        "name": "calculated",
+        "des": " adj. 经过计算（成败得失）的，经过深思熟虑的： engaged in, undertaken, or displayed after reckoning or estimating the statistical probability of success or failure",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "commonsensical",
+        "des": "adj. 符合常识的，有依据的：displaying common sense，based on sound reasoning or information",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "contemplate",
+        "des": " vt./vi. 沉思，仔细思索： to view or consider with continued attention",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "deliberate",
+        "des": " adj. 深思熟虑的： characterized by or resulting from careful and thorough consideration",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "measured",
+        "des": " adj. 深思熟虑的，审慎的： deliberated, calculated",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "meditate",
+        "des": " vt. 思索，沉思： to focus one’s thoughts on",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "premeditate",
+        "des": " vi. 预先考虑： to think, consider, or deliberate beforehand",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "reflect",
+        "des": " vi. 思考： to think seriously",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "ruminate",
+        "des": " vt. 沉思： to go over in the mind repeatedly and often casually or slowly",
+        "approx": "推理的",
+        "anti": "直觉的"
+    }, {
+        "name": "educated",
+        "des": "having an education especially : having an education beyond the average <educated speakers> (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "knowledgeable",
+        "des": "having or showing knowledge or intelligence (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "learned",
+        "des": "characterized by or associated with learning : erudite (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "lettered",
+        "des": "learned, educated (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "literate",
+        "des": "educated, cultured (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "scholarly",
+        "des": "of, characteristic of, or suitable to learned persons : learned, academic (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "well-read",
+        "des": "well-informed or deeply versed through reading <well-read in history> (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "well-informed",
+        "des": "1 : having extensive knowledge especially of current topics and events; 2 : thoroughly knowledgeable in a particular subject (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "conversant",
+        "des": "having knowledge or experience ― used with with (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "erudite",
+        "des": "possessing or displaying erudition : learned <an erudite scholar> (知识渊博的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+
+
+    {
+        "name": "accomplished",
+        "des": "proficient as the result of practice or training <an accomplished dancer> also : skillfully done or produced <an accomplished film> (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "complete",
+        "des": "highly proficient (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "expert",
+        "des": "having, involving, or displaying special skill or knowledge derived from training or experience  (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "synonyms",
+        "des": "see proficient (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "experienced",
+        "des": "made skillful or wise through experience : practiced <an experienced driver> (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "versed",
+        "des": "acquainted through study or experience; knowledgeable or skilled (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "adept",
+        "des": "thoroughly proficient : expert <adept at fixing cars>   synonyms see proficient (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "consummate",
+        "des": "extremely skilled and accomplished <a consummate liar> <a consummate professional> (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "veteran",
+        "des": "having had long experience or practice (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "abreast",
+        "des": "up to a particular standard or level especially of knowledge of recent developments (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "proficient",
+        "des": "well advanced in an art, occupation, or branch of knowledge (熟练的；有经验的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+
+    {
+        "name": "dexterous",
+        "des": "mentally adroit and skillful : clever (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "politic",
+        "des": "characterized by shrewdness in managing, contriving, or dealing (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "judicious",
+        "des": "having, exercising, or characterized by sound judgment : discreet   synonyms see wise (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "perspicacious",
+        "des": "of acute mental vision or discernment : keen (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "sagacious",
+        "des": "of keen and farsighted penetration and judgment : discerning <sagacious judge of character> (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "tactful",
+        "des": "having or showing tact (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "diplomatic",
+        "des": "employing tact and conciliation especially in situations of stress (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    },
+
+    {
+        "name": "adroit",
+        "des": "having or showing skill, cleverness, or resourcefulness in handling situations <an adroit leader> <adroit maneuvers> synonyms see clever, dexterous (头脑灵活的，明断的)",
+        "approx": "博学的",
+        "anti": "无知的"
+    }, {
+        "name": "ignorant",
+        "des": "resulting from or showing lack of knowledge or intelligence <ignorant errors> （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unlettered",
+        "des": "1 a : lacking facility in reading and writing and ignorant of the knowledge to be gained from books b : illiterate （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "benighted",
+        "des": "existing in a state of intellectual, moral, or social darkness : unenlightened （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "illiterate",
+        "des": "having little or no education especially : unable to read or write <an illiterate population> （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "uneducated",
+        "des": "（文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unscholarly",
+        "des": "（文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unknowing",
+        "des": "（文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "untutored",
+        "des": "1 a : having no formal learning or training b : naive, unsophisticated （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "uninformed",
+        "des": "（文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unknowledgeable",
+        "des": "（文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "uncivilized",
+        "des": "not civilized : barbarous （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unacquainted",
+        "des": "（文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "artless",
+        "des": "lacking art, knowledge, or skill : uncultured <an artless brute> （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "tactless",
+        "des": "marked by lack of tact <tactless comments> <tactless methods> （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "artless",
+        "des": "lacking art, knowledge, or skill : uncultured <an artless brute> （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "innocent",
+        "des": "ignorant <almost entirely innocent of latin ― c. l. wrenn> （文盲的，没有知识的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+
+    {
+        "name": "untutored",
+        "des": "：1 a : having no formal learning or training; b : naive, unsophisticated （单纯幼稚的（+））; 2 : not produced or developed by instruction : native <untutored shrewdness> （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "naive",
+        "des": "1.marked by unaffected simplicity （单纯幼稚的（+））; 2.deficient in worldly wisdom or informed judgment especially (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "dewy-eyed",
+        "des": "naively innocent and trusting <a dewy-eyed optimist> （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "wide-eyed",
+        "des": "having or marked by unsophisticated or uncritical acceptance or admiration : naive <wide-eyed innocence> （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "artless",
+        "des": "free from guile or craft : sincerely simple <an artless young woman> （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "innocent",
+        "des": "lacking or reflecting a lack of sophistication, guile, or self-consciousness : artless, ingenuous （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "guileless",
+        "des": "innocent, naive （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unaffected",
+        "des": "free from affectation : genuine （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unpretending",
+        "des": "unpretentious （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unsophisticated",
+        "des": "not changed or corrupted : genuine （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "ingenuous",
+        "des": "showing innocent or childlike simplicity and candidness （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "uncontrived",
+        "des": "（单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unfeigned",
+        "des": "not feigned or hypocritical : genuine （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unforced",
+        "des": "（单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "spontaneous",
+        "des": "not apparently contrived or manipulated （单纯幼稚的（+））",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+
+
+    {
+        "name": "foolish",
+        "des": "lacking in sense, judgment, or discretion (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "exploitable",
+        "des": "(易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "susceptible",
+        "des": "open, subject, or unresistant to some stimulus, influence, or agency <susceptible to pneumonia> (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unwary",
+        "des": "not alert : easily fooled or surprised : heedless, gullible <cheats unwary tourists> (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "dewy-eyed",
+        "des": "naively innocent and trusting <a dewy-eyed optimist> (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "wide-eyed",
+        "des": "having or marked by unsophisticated or uncritical acceptance or admiration : naive (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "innocent",
+        "des": "lacking or reflecting a lack of sophistication, guile, or self-consciousness : artless, ingenuous (易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "unperceptive",
+        "des": "(易受骗的，愚蠢的（-）)",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+
+
+    {
+        "name": "imprudent",
+        "des": "not prudent : lacking discretion, wisdom, or good judgment <an imprudent investor> （不明智的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "injudicious",
+        "des": "not judicious : indiscreet, unwise <injudicious outbursts> （不明智的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "undiplomatic",
+        "des": "not diplomatic especially : tactless （不明智的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "gauche",
+        "des": "lacking social experience or grace also : not tactful : crude <it would be gauche to mention the subject> （不明智的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "impolitic",
+        "des": "not politic : unwise （不明智的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    },
+
+    {
+        "name": "untactful",
+        "des": "（不明智的）",
+        "approx": "无知的",
+        "anti": "博学的"
+    }, {
+        "name": "conforming",
+        "des": "（正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "conformist",
+        "des": "（正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "conventional",
+        "des": ": of traditional design （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "orthodox",
+        "des": " 1 a : conforming to established doctrine especially in religion b : conventional （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "regular",
+        "des": ": formed, built, arranged, or ordered according to some established rule, law, principle, or type （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "routine",
+        "des": ": of, relating to, or being in accordance with established procedure <routine business> （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "conservative",
+        "des": ": marked by or relating to traditional norms of taste, elegance, style, or manners <a conservative suit> （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "hidebound",
+        "des": ": having an inflexible or ultraconservative character （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "old-fashioned",
+        "des": ": of, relating to, or characteristic of a past era <wears an old-fashioned black bow tie ― green peyton> （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "stodgy",
+        "des": ": extremely old-fashioned : hidebound （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "traditional",
+        "des": ":of, relating to, or in accord with tradition （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "ceremonial",
+        "des": ": marked by, involved in, or belonging to ceremony （正统的,传统保守的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "banal",
+        "des": ": lacking originality, freshness, or novelty : trite （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "cliché",
+        "des": "something (as a menu item) that has become overly familiar or commonplace （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "commonplace",
+        "des": ": something commonly found （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "hack",
+        "des": ": hackneyed, trite （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "threadbare",
+        "des": ": exhausted of interest or freshness    synonyms see trite （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "trite",
+        "des": ": hackneyed or boring from much use : not fresh or original （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "well-worn",
+        "des": ": made trite by overuse : hackneyed <a well-worn quotation> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "stereotyped",
+        "des": ": lacking originality or individuality （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "uncreative",
+        "des": "（缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "unimaginative",
+        "des": " （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "stodgy",
+        "des": ": extremely old-fashioned : hidebound <received a pompously victorian letter from his stodgy father ― e. e. s. montagu> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "familiar",
+        "des": ":a frequently seen or experienced : easily recognized <a familiar theme> b : of everyday occurrence <a familiar routine> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "hackneyed",
+        "des": ": lacking in freshness or originality <hackneyed slogans> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "time-honored",
+        "des": ": honored because of age or long usage （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "tired",
+        "des": ": trite, hackneyed （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "warmed-over",
+        "des": ": not fresh or new : stale <warmed-over ideas> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "shopworn",
+        "des": ": stale from excessive use or familiarity <shopworn clichés> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "stale",
+        "des": ": tedious from familiarity <a stale routine> （缺乏创新的,陈旧的）",
+        "approx": "传统的",
+        "anti": "创新的"
+    },
+
+    {
+        "name": "nonconventional",
+        "des": "(打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "nonorthodox",
+        "des": "(打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "nontraditional",
+        "des": "(打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "heterodox",
+        "des": ": contrary to or different from an acknowledged standard, a traditional form, or an established religion : unorthodox, unconventional <a heterodox  (打破传统的)spirituality> <heterodox ideas> (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "progressive",
+        "des": ": making use of or interested in new ideas, findings, or opportunities (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "radical",
+        "des": ": marked by a considerable departure from the usual or traditional : extreme (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "dissentient",
+        "des": "(打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "dissenting",
+        "des": "(打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "dissident",
+        "des": ": disagreeing especially with an established religious or political system, organization, or belief (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "iconoclastic",
+        "des": ": a person who attacks settled beliefs or institutions (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "informal",
+        "des": ": marked by the absence of formality or ceremony <an informal meeting> (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "irregular",
+        "des": ": not conforming to the usual pattern of inflection <irregular verbs> (打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "unconventional",
+        "des": ": not conventional : not bound by or in accordance with convention : being out of the ordinary <an unconventional outfit> <an unconventional thinker> )(打破传统的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "offbeat",
+        "des": ": eccentric, unconventional （打破传统的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "eccentric",
+        "des": ": adeviating from an established or usual pattern or style <eccentric products> b : deviating from conventional or accepted usage or conduct especially in odd or whimsical ways <an eccentric millionaire> （打破传统的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "fresh",
+        "des": ": original, vivid <a fresh portrayal> (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "original",
+        "des": ": independent and creative in thought or action : inventive <an original artist> (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "innovative",
+        "des": ": characterized by, tending to, or introducing innovations (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "novel",
+        "des": ": original or striking especially in conception or style <a novel scheme to collect money> (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "pioneering",
+        "des": ": original, earliest (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "imaginative",
+        "des": "(有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "inventive",
+        "des": ": characterized by invention <an inventive method> (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "ingenious",
+        "des": ": marked by originality, resourcefulness, and cleverness in conception or execution <an ingenious contraption> (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "creative",
+        "des": ": having the quality of something created rather than imitated : imaginative <the creative arts> (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "artful",
+        "des": " (有创造力的,创新的)",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "liberal",
+        "des": ": broad-minded especially : not bound by authoritarianism, orthodoxy, or traditional forms （思维宽广的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "casual",
+        "des": "（思维宽广的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "open-minded",
+        "des": ": receptive to arguments or ideas （思维宽广的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "unceremonious",
+        "des": ": not ceremonious （思维宽广的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "freewheeling",
+        "des": ": free and loose in form or manner （思维宽广的）",
+        "approx": "创新的",
+        "anti": "传统的"
+    },
+
+    {
+        "name": "concrete",
+        "des": " SPECIFIC, PARTICULAR (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "distinct",
+        "des": " distinguishable to the eye or mind as discrete : SEPARATE (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "distinctive",
+        "des": " having or giving style or distinction (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "precise",
+        "des": " distinguished from every other (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "special",
+        "des": " distinguished by some unusual quality especially : being in some way superior (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "specific",
+        "des": " a : restricted to a particular individual, situation, relation, or effect  b : exerting a distinctive influence (as on a body part or a disease)  (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "rare",
+        "des": " 1. marked by unusual quality, merit, or appeal : DISTINCTIVE ；2. superlative or extreme of its kind（非凡的）；3. seldom occurring or found : UNCOMMON (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "exceptional",
+        "des": " forming an exception : RARE (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "unique",
+        "des": " a : being without a like or equal : UNEQUALED b : distinctively characteristic : PECULIAR (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "peculiar",
+        "des": " 1 : characteristic of only one person, group, or thing : DISTINCTIVE ；2 : different from the usual or normal: a : SPECIAL, PARTICULAR b : ODD, CURIOUS c : ECCENTRI (特殊的，不同于其他的)C, QUEER（古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "especial",
+        "des": " being distinctive: as a : directed toward a particular individual, group, or end ；b : of special note or importance : unusually great or significant c : highly dis (特殊的，不同于其他的)tinctive or personal : PECULIAR e : SPECIFIC, PARTICULAR ",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "particular",
+        "des": " 1 : of, relating to, or being a single person or thing；2 : distinctive among other examples or cases of the same general category : notably unusual (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "anomalous",
+        "des": " inconsistent with or deviating from what is usual, normal, or expected : IRREGULAR, UNUSUAL (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "dissident",
+        "des": " disagreeing especially with an established religious or political system, organization, or belief (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "dissentient",
+        "des": " expressing dissent (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "dissenting",
+        "des": " of or relating to the English Nonconformists (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "heterodox",
+        "des": " contrary to or different from an acknowledged standard, a traditional form, or an established religion : UNORTHODOX, UNCONVENTIONAL (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "unorthodox",
+        "des": " not orthodox (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "iconoclastic",
+        "des": " characterized by attack on established beliefs or institutions（特立独行的） (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "iconoclast",
+        "des": " n. a person who attacks settled beliefs or institutions（特立独行的人） (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "idiosyncrasy",
+        "des": " n. an individualizing characteristic or quality （独特而奇怪的习惯） (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "maverick",
+        "des": " n. an independent individual who does not go along with a group or party；  a. characteristic of, suggestive of, or inclined to be a maverick (特殊的，不同于其他的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "infrequent",
+        "des": " seldom happening or occurring : RARE （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "rare",
+        "des": " seldom occurring or found : UNCOMMON （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "seldom",
+        "des": " in few instances : RARELY, INFREQUENTLY （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "uncommon",
+        "des": " not ordinarily encountered : UNUSUAL （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "unfamiliar",
+        "des": " not well-known : STRANGE （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "unusual",
+        "des": " not usual : UNCOMMON, RARE （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "unwonted",
+        "des": " being out of the ordinary : RARE, UNUSUAL （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "infrequent",
+        "des": " seldom happening or occurring : RARE （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "inadequate",
+        "des": " not adequate : INSUFFICIENT （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "scanty",
+        "des": " limited or less than sufficient in degree, quantity, or extent （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "scarce",
+        "des": " deficient in quantity or number compared with the demand: not plentiful or abundant （罕见的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "inimitable",
+        "des": " not capable of being imitated : MATCHLESS (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "incomparable",
+        "des": " eminent beyond comparison : MATCHLESS (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "matchless",
+        "des": " having no equal : PEERLESS (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "peerless",
+        "des": " MATCHLESS, INCOMPARABLE (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "unparalleled",
+        "des": " having no parallel especially : having no equal or match : unique in kind or quality (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "extraordinary",
+        "des": " a : going beyond what is usual, regular, or customary b : exceptional to a very marked extent (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "rare",
+        "des": " superlative or extreme of its kind (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "exceptional",
+        "des": " better than average : SUPERIOR (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "exceeding",
+        "des": " exceptional in amount, quality, or degree (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "remarkable",
+        "des": " worthy of being or likely to be noticed especially as being uncommon or extraordinary (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "phenomenal",
+        "des": " EXTRAORDINARY, REMARKABLE   (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "sublime",
+        "des": " tending to inspire awe usually because of elevated quality (as of beauty, nobility, or grandeur) or transcendent excellence（令人惊叹的） (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "astonishing",
+        "des": " causing astonishment : SURPRISING (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "astounding",
+        "des": " causing astonishment or amazement (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "fabulous",
+        "des": " a : resembling or suggesting a fable : of an incredible, astonishing, or exaggerated nature b : WONDERFUL, MARVELOUS (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "miraculous",
+        "des": " of the nature of a miracle : SUPERNATURAL (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "portentous",
+        "des": " eliciting amazement or wonder : PRODIGIOUS (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "prodigious",
+        "des": " exciting amazement or wonder (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "staggering",
+        "des": " so great as to cause one to stagger : ASTONISHING, OVERWHELMING (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "stunning",
+        "des": " strikingly impressive especially in beauty or excellence (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "stupendous",
+        "des": " causing astonishment or wonder : AWESOME, MARVELOUS (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "terrific",
+        "des": " EXTRAORDINARY (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "wonderful",
+        "des": ", amazing (无与伦比的，非凡的，不可思议的)",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "aberrant",
+        "des": " deviating from the usual or natural type : ATYPICAL （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "abnormal",
+        "des": " deviating from the normal or average : UNUSUAL, EXCEPTIONAL （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "erratic",
+        "des": " deviating from what is ordinary or standard : ECCENTRIC （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "bizarre",
+        "des": " strikingly out of the ordinary as odd, extravagant, or eccentric in style or mode （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "eccentric",
+        "des": " deviating from an established or usual pattern or style （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "offbeat",
+        "des": " ECCENTRIC, UNCONVENTIONAL （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "outlandish",
+        "des": " strikingly out of the ordinary : BIZARRE （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "out-of-the-way",
+        "des": " UNUSUAL （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "peculiar",
+        "des": " ECCENTRIC, QUEER  （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "quaint",
+        "des": " a : unusual or different in character or appearance : ODD <figures of fun, quaint people ― Herman Wouk> b : pleasingly or strikingly old-fashioned or unfamiliar  （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "queer",
+        "des": " differing in some odd way from what is usual or normal （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "screwy",
+        "des": " crazily absurd, eccentric, or unusual （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "spaced-out",
+        "des": " of very strange character : WEIRD （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "way-out",
+        "des": " FAR-OUT: marked by a considerable departure from the conventional or traditional （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "weird",
+        "des": " of strange or extraordinary character : ODD, FANTASTIC （异常的，反常的，古怪的）",
+        "approx": "独特的",
+        "anti": "平凡的"
+    },
+
+    {
+        "name": "COMMONPLACE",
+        "des": " commonly found or seen : ORDINARY, UNREMARKABLE （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "PROSAIC",
+        "des": " EVERYDAY, ORDINARY （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "NORMAL",
+        "des": " a : according with, constituting, or not deviating from a norm, rule, or principle b : conforming to a type, standard, or regular pattern （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "ORDINARY",
+        "des": " of a kind to be expected in the normal order of events : ROUTINE, USUAL （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "UNEXTRAORDINARY",
+        "des": "（平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "USUAL",
+        "des": " accordant with usage, custom, or habit : NORMAL （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "UNEXCEPTIONAL",
+        "des": " not out of the ordinary : COMMONPLACE （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "PLAIN",
+        "des": " a : belonging to the masses : COMMON b : lacking special distinction or affectation : ORDINARY （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "STOCK",
+        "des": " commonly used or brought forward : STANDARD （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "routine",
+        "des": ": a regular course of procedure （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "standard",
+        "des": ": regularly and widely used, available, or supplied （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "universal",
+        "des": " present or occurring everywhere （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "unimposing",
+        "des": "  lacking in impressiveness （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "unimpressive",
+        "des": " not capable of impressing （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "mediocre",
+        "des": " of moderate or low quality, value, ability, or performance : ORDINARY, SO-SO （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "conformer",
+        "des": " a person who act in accordance with prevailing standards or customs（循规蹈矩的人） （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "conformist",
+        "des": "循规蹈矩的人 （平凡，普通）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "COMMON",
+        "des": " a : WIDESPREAD, GENERAL <common knowledge> b : characterized by a lack of privilege or special status （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "GENERAL",
+        "des": " a : applicable to or characteristic of the majority of individuals involved : PREVALENT b : concerned or dealing with universal rather than particular aspects （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "UBIQUITOUS",
+        "des": " existing or being everywhere at the same time : constantly encountered : WIDESPREAD （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "OMNIPRESENT",
+        "des": " present in all places at all times （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "CONFORMITY",
+        "des": "correspondence in form, manner, or character （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "SAMENESS",
+        "des": " the quality or state of being the same : IDENTITY, SIMILARITY （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "PANDEMIC",
+        "des": " occurring over a wide geographic area and affecting an exceptionally high proportion of the population （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "WIDESPREAD",
+        "des": " widely diffused or prevalent （常见的，普遍的，流行的）",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "CONVENTIONAL",
+        "des": " 1. lacking originality or individuality : TRITE 2. ORDINARY, COMMONPLACE (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "BATHETIC",
+        "des": " characterized by bathos (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "HACKNEYED",
+        "des": " lacking in freshness or originality (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "CUSTOMARY",
+        "des": " commonly practiced, used, or observed (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "PRESCRIPTION",
+        "des": " N. ancient or long continued custom（传统的规矩） (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "CONSERVATIVE",
+        "des": " tending or disposed to maintain existing views, conditions, or institutions : TRADITIONAL (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "HIDEBOUND",
+        "des": " having an inflexible or ultraconservative character (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "OLD-FASHIONED",
+        "des": " of, relating to, or characteristic of a past era (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "STODGY",
+        "des": " extremely old-fashioned : HIDEBOUND (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "TRADITIONAL",
+        "des": "(传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+    {
+        "name": "ORTHODOX",
+        "des": " a : conforming to established doctrine especially in religion b : CONVENTIONAL (传统的，陈腐的)",
+        "approx": "平凡的",
+        "anti": "独特的"
+    },
+
+
+    {
+        "name": "antithetical",
+        "des": "adj. 完全对立的，相反的： being in direct and unequivocal opposition (对立的)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "belie",
+        "des": "v. 与…相对立；与…相矛盾： to be counter to; contradict (对立的)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "polarize",
+        "des": "vt. 使分开对立，两极分化： to break up into opposing factions or groupings (对立的)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "ambivalent",
+        "des": "adj. （尤指感情、态度）矛盾的： having a mixture of opposing feelings （矛盾的）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "contradict",
+        "des": "vt. 否认，反驳；相矛盾： to assert the contrary of; to imply the opposite or a denial of  （矛盾的）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "discrepancy",
+        "des": "n. （在事实和宣称之间的）差异或矛盾： divergence or disagreement, as between facts or claims  （矛盾的）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "oxymoron",
+        "des": "n. 矛盾修饰法： a combination of contradictory or incongruous words  （矛盾的）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "paradox",
+        "des": "n. 表面矛盾实际可能正确的话，悖论： a statement that is seemingly contradictory or opposed to common sense and yet is perhaps true  （矛盾的）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "schism",
+        "des": "n. 不一致： a lack of agreement or harmony  (不一致)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "variance",
+        "des": "n. 不一致，不和谐： a lack of agreement or harmony  (不一致)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "dissonance",
+        "des": "n．不和谐，刺耳： a harsh, disagreeable combination of sounds; discord  (不一致)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "discord",
+        "des": "n. 意见不一致，不和谐： lack of agreement or harmony (as between persons, things, or ideas)  (不一致)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "abnegate",
+        "des": "v. 否认： deny, renounce（放弃）（拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "disavow",
+        "des": "vt. 拒绝承认，否认： to disclaim knowledge of, responsibility for, or association with；to declare not to be true（拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "gainsay",
+        "des": "v. 否认： to declare false （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "naysay",
+        "des": "vt. 拒绝，否认： to oppose, deny, or take a pessimistic or negative view of （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "negation",
+        "des": "n. 否定： the opposite or absence of something regarded as actual, positive, or affirmative （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "refute",
+        "des": "vt. 否认： to declare not to be true （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "repudiate",
+        "des": "vt. 否认： to declare not to be true （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "rebuff",
+        "des": "vt. 严词拒绝： to reject or criticize sharply （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "retract",
+        "des": "vt. 收回，否认： to take back （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "reprobate",
+        "des": "vt. 拒绝，不提供： to be unwilling to grant （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "repulse",
+        "des": "vt. （使）厌恶，排斥： to rebuff or reject with rudeness, coldness, or denial （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "spurn",
+        "des": "vt. 摈弃，拒绝： to reject with disdain or contempt （拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "veto",
+        "des": "n./vt. 否决，禁止： to forbid or prohibit authoritatively（拒绝，否定）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "bifurcate",
+        "des": "vi./vt. （使）分成两支： (to cause) to divide into two branches or parts (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "chasm",
+        "des": "n. 分歧，意见、利益或忠诚上的明显差异： a pronounced difference of opinion, interests, or loyalty. (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "dissension",
+        "des": "n. 意见不合：difference of opinion; disagreement (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "dichotomy",
+        "des": "n. 一分为二，分割： a division into two especially mutually exclusive or contradictory groups or entities (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "dissent",
+        "des": "v. 持异议，不同意： to differ in opinion (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "discord",
+        "des": "n. 意见不一致，不和谐： lack of agreement or harmony (as between persons, things, or ideas) (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "friction",
+        "des": "n. 冲突，不和： the clashing between two persons or parties of opposed views (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "heresy",
+        "des": "n. 异教，和普遍观点相悖： a controversial or unorthodox opinion or doctrine, departure from a generally accepted theory, opinion, or practice (分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "heterodox",
+        "des": "adj. 非正统的，异端的： holding unorthodox opinions or doctrines, not rigidly following established form, custom, or rules(分歧)",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "confound",
+        "des": "v. 证明为假，证伪：to prove to be false （证明为假）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "debunk",
+        "des": "v. 证明为假： to prove to be false （证明为假）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "disprove",
+        "des": "vt. 证伪，证明为假： to prove to be false or wrong （证明为假）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "refute",
+        "des": "vt. 证明为假，证伪： to prove wrong by argument or evidence: show to be false or erroneous （证明为假）",
+        "approx": "对立的",
+        "anti": "相同的"
+    },
+
+    {
+        "name": "bifurcate",
+        "des": "vi./vt. （使）分成两支： (to cause) to divide into two branches or parts  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "chasm",
+        "des": "n. 分歧，意见、利益或忠诚上的明显差异： a pronounced difference of opinion, interests, or loyalty.  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "dissension",
+        "des": "n. 意见不合：difference of opinion; disagreement  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "dichotomy",
+        "des": "n. 一分为二，分割： a division into two especially mutually exclusive or contradictory groups or entities  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "dissent",
+        "des": "v. 持异议，不同意： to differ in opinion  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "discord",
+        "des": "n. 意见不一致，不和谐： lack of agreement or harmony (as between persons, things, or ideas)  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "friction",
+        "des": "n. 冲突，不和： the clashing between two persons or parties of opposed views  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "heresy",
+        "des": "n. 异教，和普遍观点相悖： a controversial or unorthodox opinion or doctrine, departure from a generally accepted theory, opinion, or practice  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "heterodox",
+        "des": "adj. 非正统的，异端的： holding unorthodox opinions or doctrines, not rigidly following established form, custom, or rules (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "accord",
+        "des": "n. 一致： a state of consistency  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "agreeable",
+        "des": "adj. 相一致的： being in harmony  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "amenity",
+        "des": "n. 融洽，和谐：the quality of being pleasant or agreeable  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "consensus",
+        "des": "n. 一致同意： general agreement; unanimity  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "kindred",
+        "des": "adj. 类似的；具有相似或相近的起源，本性或性质的： having a similar or related origin, nature, or character  (一致的)",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "assent",
+        "des": "vi. 同意：to agree to something especially after thoughtful consideration （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "attest",
+        "des": "vt. 证实，为…作证： to give evidence or testimony to the truth or factualness of （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "aver",
+        "des": "v. 声称为真： to state as a fact usually forcefully （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "affirm",
+        "des": "vt. 声称为真，肯定属实： to assert (as a judgment or decree) as valid or confirmed （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "avowal",
+        "des": "n. 承认： a solemn and often public declaration of the truth or existence of something （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "accede",
+        "des": "v. 赞成： to express approval or give consent （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "acquiesce",
+        "des": "v. 勉强同意；默许： to accept, comply, or submit tacitly or passively （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "assert",
+        "des": "vt. 断言，肯定地说出：to state or declare positively and often forcefully or aggressively （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "acknowledge",
+        "des": "vt. 承认： to admit the existence, reality, or truth of （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "contend",
+        "des": "vt. 声明，声称： to state as a fact usually forcefully （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "consent",
+        "des": "n. 同意，赞同： the approval by someone in authority for the doing of something （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "consensus",
+        "des": "n. 一致同意： general agreement; unanimity （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "complementary",
+        "des": "adj. 互补的： mutually supplying each other’s lack （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "corroborate",
+        "des": "vt. 用证据或权威证实： to support with evidence or authority; make more certain （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "concede",
+        "des": "vt. 承认：to grant as a right or privilege （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "claim",
+        "des": "v. 断言：to state as a fact usually forcefully （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "favorable",
+        "des": "adj. 赞许的：expressing approval （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "ratify",
+        "des": "vt. （官方地）认可，批准： to give official acceptance of as satisfactory （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "sanction",
+        "des": "v. 批准，同意，认可： to make valid or binding usually by a formal procedure (as ratification) （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "substantiate",
+        "des": "vt. 证实： to support with proof or evidence （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "verify",
+        "des": "vt. 校验，证实： to determine or test the truth or accuracy of, as by comparison, investigation, or reference （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "vindicate",
+        "des": "vt. 证明，证实：to give evidence or testimony to the truth or factualness of （证明为真，承认）",
+        "approx": "相同的",
+        "anti": "对立的"
+    },
+
+    {
+        "name": "complex",
+        "des": "a whole made up of complicated or interrelated parts （复杂,纠缠）",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "complexity",
+        "des": "（复杂,纠缠）",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "complicate",
+        "des": " 1 : to combine especially in an involved or inextricable manner; 2 : to make complex or difficult; 3 : INVOLVE especially : to cause to be more complex or severe <a virus disease complicated by bacterial infection> （复杂,纠缠）",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "perplex",
+        "des": " to make intricate or involved （复杂,纠缠）",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "sophisticate",
+        "des": " to make complicated or complex （复杂,纠缠）",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "sophisticated",
+        "des": "（复杂,纠缠）",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "snarl",
+        "des": " 1 : to cause to become knotted and intertwined : TANGLE; 2 : to make excessively complicated (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "ensnarl",
+        "des": " to involve in a snarl (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "tangle",
+        "des": " to unite or knit together in intricate confusion (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "tangled",
+        "des": "(复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "entangle",
+        "des": " to wrap or twist together (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "entanglement",
+        "des": "a : the action of entangling : the state of being entangled b : something that entangles, confuses, or ensnares (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "ravel",
+        "des": " to become entangled or confused (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "interlace",
+        "des": " to unite by or as if by lacing together (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "intertwine",
+        "des": " to unite by twining one with another (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "intertwist",
+        "des": " (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "interweave",
+        "des": " to mix or blend together (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "knot",
+        "des": " (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "knotty",
+        "des": " marked by or full of knots especially : so full of difficulties and complications as to be likely to defy solution (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "baroque",
+        "des": " characterized by grotesqueness, extravagance, complexity, or flamboyance (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "byzantine",
+        "des": " intricately involved (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "convoluted",
+        "des": " having convolutions (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "elaborate",
+        "des": " marked by complexity, fullness of detail, or ornateness (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "intricate",
+        "des": " having many complexly interrelating parts or elements (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "involved",
+        "des": "a : marked by extreme and often needless or excessive complexity b : difficult to deal with because of complexity or disorder (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "involvement",
+        "des": "(复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "labyrinthine",
+        "des": "of, relating to, or resembling a labyrinth : INTRICATE, INVOLVED (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "embarrass",
+        "des": "to make intricate (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "embarrassment",
+        "des": " (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "fancy",
+        "des": " (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "lavish",
+        "des": "expending or bestowing profusely (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "twisted",
+        "des": "mentally or emotionally unsound or disturbed (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "circumstantial",
+        "des": "marked by careful attention to detail : abounding in factual details (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "minute",
+        "des": " marked by close attention to details (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "particular",
+        "des": "  (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "particularized",
+        "des": " to go into details (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "imbroglio",
+        "des": "an intricate or complicated situation  (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "misunderstanding",
+        "des": "困境，复杂的局面 (复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "quandary",
+        "des": "(复杂,纠缠)",
+        "approx": "复杂的",
+        "anti": "简单的"
+    },
+
+    {
+        "name": "clarify",
+        "des": "to make (as a liquid) clear or pure usually by freeing from suspended matter  (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "clear",
+        "des": " (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "elucidate",
+        "des": " to give a clarifying explanation (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "untangle",
+        "des": " to loose from tangles or entanglement (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "unravel",
+        "des": " to resolve the intricacy, complexity, or obscurity of (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "unsnarl",
+        "des": " to disentangle a snarl in (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "untwine",
+        "des": " to unwind the twisted or tangled parts of (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "untwist",
+        "des": " to separate the twisted parts of (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "disentangle",
+        "des": " to free from entanglement (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "extricate",
+        "des": " to free or remove from an entanglement or difficulty (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "plain",
+        "des": " something free from artifice, ornament, or extraneous matter  (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "simple",
+        "des": "(简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "simplify",
+        "des": "(简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "streamline",
+        "des": " to make simpler or more efficient (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "straightforward",
+        "des": " free from evasiveness or obscurity (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "austere",
+        "des": " markedly simple or unadorned (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "uncomplicated",
+        "des": " not complicated by something outside itself  (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "sketchy",
+        "des": " wanting in completeness, clearness, or substance (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "brief",
+        "des": "(简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "compendious",
+        "des": " marked by brief expression of a comprehensive matter (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "summary",
+        "des": " done without delay or formality (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "facilitate",
+        "des": " to make easier (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "ease",
+        "des": " freedom from labor or difficulty (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "expedite",
+        "des": " to accelerate the process or progress of  (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "forward",
+        "des": " moving, tending, or leading toward a position in front also : moving toward an opponent's goal (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "further",
+        "des": " to a greater degree or extent (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "help",
+        "des": " (括号内的单词意思是：使变容易，促进) (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "easy",
+        "des": "(简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "effortless",
+        "des": "showing or requiring little or no effort (简单的)",
+        "approx": "简单的",
+        "anti": "复杂的"
+    },
+
+    {
+        "name": "disinterested",
+        "des": " free from selfish motive or interest  (不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "impartial",
+        "des": " not partial or biased : treating or affecting all equally  (不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "dispassionate",
+        "des": " not influenced by strong feeling especially : not affected by personal or emotional involvement  (不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "indifferent",
+        "des": "marked by impartiality : UNBIASED(不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "impersonal",
+        "des": " not engaging the human personality or emotions(不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "objective",
+        "des": " a. expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations; b. of a test : limited to choices of fixed alternatives and reducing subjective factors to a minimum(不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "unbiased",
+        "des": " having an expected value equal to a population parameter being estimated (不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "unprejudiced",
+        "des": " Free from prejudice; impartial  (不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "open-mindedness",
+        "des": " (不带感情的，无个人偏见的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "equal",
+        "des": " regarding or affecting all objects in the same way   （公平的，平等的）",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "equitable",
+        "des": "dealing fairly and equally with all concerned （公平的，平等的）",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "evenhanded",
+        "des": " Showing no partiality; fair.   （公平的，平等的）",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "square",
+        "des": " just,fair   （公平的，平等的）",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "nonpartisan",
+        "des": " not partisan especially : free from party affiliation, bias, or designation (无党派的，中立的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "neutrality",
+        "des": " the quality or state of being neutral especially : refusal to take part in a war between other powers (无党派的，中立的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "aboveboard",
+        "des": " free from all traces of deceit or duplicity  (无欺诈的，光明正大的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    },
+
+    {
+        "name": "just",
+        "des": " honorable and fair in one's dealings and actions (正派的，公正的)",
+        "approx": "公正",
+        "anti": "偏袒"
+    }, {
+        "name": "biased",
+        "des": " exhibiting or characterized by bias especially : PREJUDICED (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "nonobjective",
+        "des": " not objective (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "one-sided",
+        "des": " limited to one side : PARTIAL (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "partial",
+        "des": " inclined to favor one party more than the other : BIASED (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "partisan",
+        "des": " inclined to favor one side over another (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "prejudiced",
+        "des": " resulting from or having a prejudice or bias for or especially against (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "discriminating",
+        "des": " marked by discrimination (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "discriminatory",
+        "des": " applying or favoring discrimination in treatment (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "tendentious",
+        "des": " marked by a tendency in favor of a particular point of view : BIASED (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "subjective",
+        "des": " (1) : peculiar to a particular individual : PERSONAL <subjective judgments> (2) : modified or affected by personal views, experience, or background <a subjective account of the incident> (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "favoritism",
+        "des": " n. the showing of special favor : PARTIALITY (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "favor",
+        "des": " n. a special privilege or right granted or conceded (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "cronyism",
+        "des": " n. partiality to cronies especially as evidenced in the appointment of political hangers-on to office without regard to their qualifications  任人唯亲，对好朋友的偏袒(尤指政治上) (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "distorting",
+        "des": " (有偏见的，带有个人情感的)",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "unfair",
+        "des": " 1 : marked by injustice, partiality, or deception : UNJUST; 2 : not equitable in business dealings （不公平的）",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "unjust",
+        "des": " characterized by injustice : UNFAIR （不公平的）",
+        "approx": "偏袒",
+        "anti": "公正"
+    },
+
+    {
+        "name": "inequitable",
+        "des": " not equitable : UNFAIR （不公平的）",
+        "approx": "偏袒",
+        "anti": "公正"
+    }
+
+
+]

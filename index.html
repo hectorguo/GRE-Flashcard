@@ -39,13 +39,15 @@ Copyright (c) HectorGuo. All rights reserved.
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <span class="navbar-brand">已学: <span id="learned">5 343</span></span>
+                <span class="navbar-brand">已掌握: <span id="learned">5 343</span></span>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="#">单词列表</a>
+                    <li class="active"><a href="#flashcard" data-toggle="tab">FlashCard</a>
                     </li>
-                    <li><a href="#">重新学习</a>
+                    <li><a href="#wordlist" data-toggle="tab">单词列表</a>
+                    </li>
+                    <li><a href="#" id="reset">重新学习</a>
                     </li>
                 </ul>
             </div>
@@ -67,7 +69,10 @@ Copyright (c) HectorGuo. All rights reserved.
             </ul>
         </div>
     </nav> -->
-    <section class="container">
+    <section class="container tab-pane fade" id="wordlist">
+        xxxxxxxsdfasdf
+    </section>
+    <section class="container tab-pane fade in active" id="flashcard">
         <div id="tips" class="alert alert-info">
             <strong>多选题!</strong> 请选择与之同义的单词，1~多个
             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span>
