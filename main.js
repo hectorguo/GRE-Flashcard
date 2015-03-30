@@ -207,16 +207,48 @@
 
             // bind reset
             $('#tab_reset').click(function(e) {
-                var isconfirm = confirm('are you sure?');
+                var isconfirm = confirm('All the words you have learned will be removed, Are you sure?');
                 if (isconfirm) {
-                    var learnedWords = localStorage.getItem('learnedWords') ? $.parseJSON(localStorage.getItem('learnedWords')) : [];
-                    if (learnedWords.length) {
-                        restWords = restWords.concat(learnedWords);
-                        localStorage.removeItem('learnedWords');
-                        helper.build(content, restWords, options, indexes, groups);
-                    }
+                    localStorage.clear();
+                    location.reload();
+                    // var learnedWords = localStorage.getItem('learnedWords') ? $.parseJSON(localStorage.getItem('learnedWords')) : [];
+                    // if (learnedWords.length) {
+                    //     restWords = restWords.concat(learnedWords);
+                    //     localStorage.removeItem('learnedWords');
+                    // helper.build(content, restWords, options, indexes, groups);
+                    // }
                 }
             });
+
+            // TODO  bind update
+            // $('#tab_update').click(function(e) {
+            //     var learnedWords = localStorage.getItem('learnedWords') ? $.parseJSON(localStorage.getItem('learnedWords')) : [];
+            //     localStorage.clear();
+            //     $.ajax({
+            //             url: 'data.json',
+            //             dataType: 'json'
+            //         })
+            //         .done(function(data) {
+            //             if (data) {
+            //                 var indexes = helper.getIndexes(data),
+            //                     groups = helper.getGroups(data);
+
+            //                 if (learnedWords.length) {
+            //                     data = $.grep(data, function(e) {
+            //                         // todo
+            //                     });
+            //                     helper.build(content, data, options, indexes, groups);
+
+            //                     helper.bindEvent(container, content, data, options, indexes, groups);
+            //                 }
+
+            //             }
+            //         })
+            //         .error(function(a, b, c) {
+            //             debugger;
+            //         });
+            // });
+
 
             $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
                 var tabId = $(this).attr('href'),
@@ -268,8 +300,8 @@
 
                         $thisConfirm.text('下一个').val('next');
 
-                        !isRepeat && setTimeout(function(){
-                          $thisConfirm.trigger('click');
+                        !isRepeat && setTimeout(function() {
+                            $thisConfirm.trigger('click');
                         }, 1000);
 
                     } else {
