@@ -115,7 +115,7 @@
         "anti": "直觉的"
     }, {
         "name": "educated",
-        "des": "having an education especially : having an education beyond the average <educated speakers> (知识渊博的)",
+        "des": "having an education especially : having an education beyond the average [educated speakers] (知识渊博的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -157,7 +157,7 @@
 
     {
         "name": "well-read",
-        "des": "well-informed or deeply versed through reading <well-read in history> (知识渊博的)",
+        "des": "well-informed or deeply versed through reading [well-read in history] (知识渊博的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -178,7 +178,7 @@
 
     {
         "name": "erudite",
-        "des": "possessing or displaying erudition : learned <an erudite scholar> (知识渊博的)",
+        "des": "possessing or displaying erudition : learned [an erudite scholar] (知识渊博的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -187,7 +187,7 @@
 
     {
         "name": "accomplished",
-        "des": "proficient as the result of practice or training <an accomplished dancer> also : skillfully done or produced <an accomplished film> (熟练的；有经验的)",
+        "des": "proficient as the result of practice or training [an accomplished dancer] also : skillfully done or produced [an accomplished film] (熟练的；有经验的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -215,7 +215,7 @@
 
     {
         "name": "experienced",
-        "des": "made skillful or wise through experience : practiced <an experienced driver> (熟练的；有经验的)",
+        "des": "made skillful or wise through experience : practiced [an experienced driver] (熟练的；有经验的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -229,14 +229,14 @@
 
     {
         "name": "adept",
-        "des": "thoroughly proficient : expert <adept at fixing cars>   synonyms see proficient (熟练的；有经验的)",
+        "des": "thoroughly proficient : expert [adept at fixing cars]   synonyms see proficient (熟练的；有经验的)",
         "approx": "博学的",
         "anti": "无知的"
     },
 
     {
         "name": "consummate",
-        "des": "extremely skilled and accomplished <a consummate liar> <a consummate professional> (熟练的；有经验的)",
+        "des": "extremely skilled and accomplished [a consummate liar] [a consummate professional] (熟练的；有经验的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -293,7 +293,7 @@
 
     {
         "name": "sagacious",
-        "des": "of keen and farsighted penetration and judgment : discerning <sagacious judge of character> (头脑灵活的，明断的)",
+        "des": "of keen and farsighted penetration and judgment : discerning [sagacious judge of character] (头脑灵活的，明断的)",
         "approx": "博学的",
         "anti": "无知的"
     },
@@ -314,12 +314,12 @@
 
     {
         "name": "adroit",
-        "des": "having or showing skill, cleverness, or resourcefulness in handling situations <an adroit leader> <adroit maneuvers> synonyms see clever, dexterous (头脑灵活的，明断的)",
+        "des": "having or showing skill, cleverness, or resourcefulness in handling situations [an adroit leader] [adroit maneuvers] synonyms see clever, dexterous (头脑灵活的，明断的)",
         "approx": "博学的",
         "anti": "无知的"
     }, {
         "name": "ignorant",
-        "des": "resulting from or showing lack of knowledge or intelligence <ignorant errors> （文盲的，没有知识的）",
+        "des": "resulting from or showing lack of knowledge or intelligence [ignorant errors] （文盲的，没有知识的）",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -340,7 +340,7 @@
 
     {
         "name": "illiterate",
-        "des": "having little or no education especially : unable to read or write <an illiterate population> （文盲的，没有知识的）",
+        "des": "having little or no education especially : unable to read or write [an illiterate population] （文盲的，没有知识的）",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -403,28 +403,28 @@
 
     {
         "name": "artless",
-        "des": "lacking art, knowledge, or skill : uncultured <an artless brute> （文盲的，没有知识的）",
+        "des": "lacking art, knowledge, or skill : uncultured [an artless brute] （文盲的，没有知识的）",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "tactless",
-        "des": "marked by lack of tact <tactless comments> <tactless methods> （文盲的，没有知识的）",
+        "des": "marked by lack of tact [tactless comments] [tactless methods] （文盲的，没有知识的）",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "artless",
-        "des": "lacking art, knowledge, or skill : uncultured <an artless brute> （文盲的，没有知识的）",
+        "des": "lacking art, knowledge, or skill : uncultured [an artless brute] （文盲的，没有知识的）",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "innocent",
-        "des": "ignorant <almost entirely innocent of latin ― c. l. wrenn> （文盲的，没有知识的）",
+        "des": "ignorant [almost entirely innocent of latin ― c. l. wrenn] （文盲的，没有知识的）",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -432,7 +432,7 @@
 
     {
         "name": "untutored",
-        "des": "：1 a : having no formal learning or training; b : naive, unsophisticated （单纯幼稚的（+））; 2 : not produced or developed by instruction : native <untutored shrewdness> （单纯幼稚的（+））",
+        "des": "：1 a : having no formal learning or training; b : naive, unsophisticated （单纯幼稚的（+））; 2 : not produced or developed by instruction : native [untutored shrewdness] （单纯幼稚的（+））",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -446,21 +446,21 @@
 
     {
         "name": "dewy-eyed",
-        "des": "naively innocent and trusting <a dewy-eyed optimist> （单纯幼稚的（+））",
+        "des": "naively innocent and trusting [a dewy-eyed optimist] （单纯幼稚的（+））",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "wide-eyed",
-        "des": "having or marked by unsophisticated or uncritical acceptance or admiration : naive <wide-eyed innocence> （单纯幼稚的（+））",
+        "des": "having or marked by unsophisticated or uncritical acceptance or admiration : naive [wide-eyed innocence] （单纯幼稚的（+））",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "artless",
-        "des": "free from guile or craft : sincerely simple <an artless young woman> （单纯幼稚的（+））",
+        "des": "free from guile or craft : sincerely simple [an artless young woman] （单纯幼稚的（+））",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -553,21 +553,21 @@
 
     {
         "name": "susceptible",
-        "des": "open, subject, or unresistant to some stimulus, influence, or agency <susceptible to pneumonia> (易受骗的，愚蠢的（-）)",
+        "des": "open, subject, or unresistant to some stimulus, influence, or agency [susceptible to pneumonia] (易受骗的，愚蠢的（-）)",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "unwary",
-        "des": "not alert : easily fooled or surprised : heedless, gullible <cheats unwary tourists> (易受骗的，愚蠢的（-）)",
+        "des": "not alert : easily fooled or surprised : heedless, gullible [cheats unwary tourists] (易受骗的，愚蠢的（-）)",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "dewy-eyed",
-        "des": "naively innocent and trusting <a dewy-eyed optimist> (易受骗的，愚蠢的（-）)",
+        "des": "naively innocent and trusting [a dewy-eyed optimist] (易受骗的，愚蠢的（-）)",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -597,14 +597,14 @@
 
     {
         "name": "imprudent",
-        "des": "not prudent : lacking discretion, wisdom, or good judgment <an imprudent investor> （不明智的）",
+        "des": "not prudent : lacking discretion, wisdom, or good judgment [an imprudent investor] （不明智的）",
         "approx": "无知的",
         "anti": "博学的"
     },
 
     {
         "name": "injudicious",
-        "des": "not judicious : indiscreet, unwise <injudicious outbursts> （不明智的）",
+        "des": "not judicious : indiscreet, unwise [injudicious outbursts] （不明智的）",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -618,7 +618,7 @@
 
     {
         "name": "gauche",
-        "des": "lacking social experience or grace also : not tactful : crude <it would be gauche to mention the subject> （不明智的）",
+        "des": "lacking social experience or grace also : not tactful : crude [it would be gauche to mention the subject] （不明智的）",
         "approx": "无知的",
         "anti": "博学的"
     },
@@ -672,14 +672,14 @@
 
     {
         "name": "routine",
-        "des": ": of, relating to, or being in accordance with established procedure <routine business> （正统的,传统保守的）",
+        "des": ": of, relating to, or being in accordance with established procedure [routine business] （正统的,传统保守的）",
         "approx": "传统的",
         "anti": "创新的"
     },
 
     {
         "name": "conservative",
-        "des": ": marked by or relating to traditional norms of taste, elegance, style, or manners <a conservative suit> （正统的,传统保守的）",
+        "des": ": marked by or relating to traditional norms of taste, elegance, style, or manners [a conservative suit] （正统的,传统保守的）",
         "approx": "传统的",
         "anti": "创新的"
     },
@@ -693,7 +693,7 @@
 
     {
         "name": "old-fashioned",
-        "des": ": of, relating to, or characteristic of a past era <wears an old-fashioned black bow tie ― green peyton> （正统的,传统保守的）",
+        "des": ": of, relating to, or characteristic of a past era [wears an old-fashioned black bow tie ― green peyton] （正统的,传统保守的）",
         "approx": "传统的",
         "anti": "创新的"
     },
@@ -763,7 +763,7 @@
 
     {
         "name": "well-worn",
-        "des": ": made trite by overuse : hackneyed <a well-worn quotation> （缺乏创新的,陈旧的）",
+        "des": ": made trite by overuse : hackneyed [a well-worn quotation] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
@@ -791,21 +791,21 @@
 
     {
         "name": "stodgy",
-        "des": ": extremely old-fashioned : hidebound <received a pompously victorian letter from his stodgy father ― e. e. s. montagu> （缺乏创新的,陈旧的）",
+        "des": ": extremely old-fashioned : hidebound [received a pompously victorian letter from his stodgy father ― e. e. s. montagu] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
 
     {
         "name": "familiar",
-        "des": ":a frequently seen or experienced : easily recognized <a familiar theme> b : of everyday occurrence <a familiar routine> （缺乏创新的,陈旧的）",
+        "des": ":a frequently seen or experienced : easily recognized [a familiar theme] b : of everyday occurrence [a familiar routine] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
 
     {
         "name": "hackneyed",
-        "des": ": lacking in freshness or originality <hackneyed slogans> （缺乏创新的,陈旧的）",
+        "des": ": lacking in freshness or originality [hackneyed slogans] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
@@ -826,21 +826,21 @@
 
     {
         "name": "warmed-over",
-        "des": ": not fresh or new : stale <warmed-over ideas> （缺乏创新的,陈旧的）",
+        "des": ": not fresh or new : stale [warmed-over ideas] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
 
     {
         "name": "shopworn",
-        "des": ": stale from excessive use or familiarity <shopworn clichés> （缺乏创新的,陈旧的）",
+        "des": ": stale from excessive use or familiarity [shopworn clichés] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
 
     {
         "name": "stale",
-        "des": ": tedious from familiarity <a stale routine> （缺乏创新的,陈旧的）",
+        "des": ": tedious from familiarity [a stale routine] （缺乏创新的,陈旧的）",
         "approx": "传统的",
         "anti": "创新的"
     },
@@ -868,7 +868,7 @@
 
     {
         "name": "heterodox",
-        "des": ": contrary to or different from an acknowledged standard, a traditional form, or an established religion : unorthodox, unconventional <a heterodox  (打破传统的)spirituality> <heterodox ideas> (打破传统的)",
+        "des": ": contrary to or different from an acknowledged standard, a traditional form, or an established religion : unorthodox, unconventional [a heterodox  (打破传统的)spirituality] [heterodox ideas] (打破传统的)",
         "approx": "创新的",
         "anti": "传统的"
     },
@@ -917,21 +917,21 @@
 
     {
         "name": "informal",
-        "des": ": marked by the absence of formality or ceremony <an informal meeting> (打破传统的)",
+        "des": ": marked by the absence of formality or ceremony [an informal meeting] (打破传统的)",
         "approx": "创新的",
         "anti": "传统的"
     },
 
     {
         "name": "irregular",
-        "des": ": not conforming to the usual pattern of inflection <irregular verbs> (打破传统的)",
+        "des": ": not conforming to the usual pattern of inflection [irregular verbs] (打破传统的)",
         "approx": "创新的",
         "anti": "传统的"
     },
 
     {
         "name": "unconventional",
-        "des": ": not conventional : not bound by or in accordance with convention : being out of the ordinary <an unconventional outfit> <an unconventional thinker> )(打破传统的)",
+        "des": ": not conventional : not bound by or in accordance with convention : being out of the ordinary [an unconventional outfit] [an unconventional thinker] )(打破传统的)",
         "approx": "创新的",
         "anti": "传统的"
     },
@@ -945,21 +945,21 @@
 
     {
         "name": "eccentric",
-        "des": ": adeviating from an established or usual pattern or style <eccentric products> b : deviating from conventional or accepted usage or conduct especially in odd or whimsical ways <an eccentric millionaire> （打破传统的）",
+        "des": ": adeviating from an established or usual pattern or style [eccentric products] b : deviating from conventional or accepted usage or conduct especially in odd or whimsical ways [an eccentric millionaire] （打破传统的）",
         "approx": "创新的",
         "anti": "传统的"
     },
 
     {
         "name": "fresh",
-        "des": ": original, vivid <a fresh portrayal> (有创造力的,创新的)",
+        "des": ": original, vivid [a fresh portrayal] (有创造力的,创新的)",
         "approx": "创新的",
         "anti": "传统的"
     },
 
     {
         "name": "original",
-        "des": ": independent and creative in thought or action : inventive <an original artist> (有创造力的,创新的)",
+        "des": ": independent and creative in thought or action : inventive [an original artist] (有创造力的,创新的)",
         "approx": "创新的",
         "anti": "传统的"
     },
@@ -973,7 +973,7 @@
 
     {
         "name": "novel",
-        "des": ": original or striking especially in conception or style <a novel scheme to collect money> (有创造力的,创新的)",
+        "des": ": original or striking especially in conception or style [a novel scheme to collect money] (有创造力的,创新的)",
         "approx": "创新的",
         "anti": "传统的"
     },
@@ -994,21 +994,21 @@
 
     {
         "name": "inventive",
-        "des": ": characterized by invention <an inventive method> (有创造力的,创新的)",
+        "des": ": characterized by invention [an inventive method] (有创造力的,创新的)",
         "approx": "创新的",
         "anti": "传统的"
     },
 
     {
         "name": "ingenious",
-        "des": ": marked by originality, resourcefulness, and cleverness in conception or execution <an ingenious contraption> (有创造力的,创新的)",
+        "des": ": marked by originality, resourcefulness, and cleverness in conception or execution [an ingenious contraption] (有创造力的,创新的)",
         "approx": "创新的",
         "anti": "传统的"
     },
 
     {
         "name": "creative",
-        "des": ": having the quality of something created rather than imitated : imaginative <the creative arts> (有创造力的,创新的)",
+        "des": ": having the quality of something created rather than imitated : imaginative [the creative arts] (有创造力的,创新的)",
         "approx": "创新的",
         "anti": "传统的"
     },
@@ -1512,7 +1512,7 @@
 
     {
         "name": "quaint",
-        "des": " a : unusual or different in character or appearance : ODD <figures of fun, quaint people ― Herman Wouk> b : pleasingly or strikingly old-fashioned or unfamiliar  （异常的，反常的，古怪的）",
+        "des": " a : unusual or different in character or appearance : ODD [figures of fun, quaint people ― Herman Wouk] b : pleasingly or strikingly old-fashioned or unfamiliar  （异常的，反常的，古怪的）",
         "approx": "独特的",
         "anti": "平凡的"
     },
@@ -1673,7 +1673,7 @@
 
     {
         "name": "COMMON",
-        "des": " a : WIDESPREAD, GENERAL <common knowledge> b : characterized by a lack of privilege or special status （常见的，普遍的，流行的）",
+        "des": " a : WIDESPREAD, GENERAL [common knowledge] b : characterized by a lack of privilege or special status （常见的，普遍的，流行的）",
         "approx": "平凡的",
         "anti": "独特的"
     },
@@ -2339,7 +2339,7 @@
 
     {
         "name": "complicate",
-        "des": " 1 : to combine especially in an involved or inextricable manner; 2 : to make complex or difficult; 3 : INVOLVE especially : to cause to be more complex or severe <a virus disease complicated by bacterial infection> （复杂,纠缠）",
+        "des": " 1 : to combine especially in an involved or inextricable manner; 2 : to make complex or difficult; 3 : INVOLVE especially : to cause to be more complex or severe [a virus disease complicated by bacterial infection] （复杂,纠缠）",
         "approx": "复杂的",
         "anti": "简单的"
     },
@@ -2981,7 +2981,7 @@
 
     {
         "name": "subjective",
-        "des": " (1) : peculiar to a particular individual : PERSONAL <subjective judgments> (2) : modified or affected by personal views, experience, or background <a subjective account of the incident> (有偏见的，带有个人情感的)",
+        "des": " (1) : peculiar to a particular individual : PERSONAL [subjective judgments] (2) : modified or affected by personal views, experience, or background [a subjective account of the incident] (有偏见的，带有个人情感的)",
         "approx": "偏袒",
         "anti": "公正"
     },

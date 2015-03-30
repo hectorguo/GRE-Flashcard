@@ -1,5 +1,18 @@
 (function($) {
     var helper = {
+
+        // 对单词列表重新排序
+        reSort: function(data) {
+            function compare(a, b) {
+                if (a.approx < b.approx)
+                    return -1;
+                if (a.approx > b.approx)
+                    return 1;
+                return 0;
+            }
+            return data.sort(compare);
+        },
+
         // 按相近的意思重新分组
         getGroups: function(data) {
             var groups = {},
@@ -39,8 +52,60 @@
             return sortData.slice(0, numbers);
         },
 
-        buildWordList: function() {
+        buildWordList: function(container) {
+            var restWords = localStorage.getItem('restWords'),
+                learnedWords = localStorage.getItem('learnedWords');
+            if (!restWords && !learnedWords) {
+                return;
+            }
 
+            var tmpl = ['<div class="panel panel-default">'];
+
+            restWords = $.parseJSON(restWords);
+            learnedWords = $.parseJSON(learnedWords);
+
+            // 已掌握单词渲染
+            if (learnedWords.length) {
+                learnedWords = helper.reSort(learnedWords);
+                tmpl.push('<div class="panel-heading" role="tab" id="panelLearned">',
+                    '<h4 class="panel-title">',
+                    // '<a data-toggle="collapse" href="#panelLearned" aria-expanded="true" aria-controls="panelLearned">',
+                    '已掌握 ', learnedWords.length,
+                    '</h4></div>',
+                    // '<div id="panelLearned" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="panelHeadLearned" aria-expanded="true">',
+                    '<ul class="list-group">');
+
+                $.each(learnedWords, function(i, item) {
+                    tmpl.push('<li class="list-group-item list-group-item-success">',
+                        '<h4 class="list-group-item-heading">', item.name, '</h4>',
+                        '<p class="list-group-item-text">【', item.approx, '】', item.des, '</p>',
+                        '</li>');
+                });
+
+                tmpl.push('</ul>');
+            }
+
+            // 未掌握单词渲染
+            if (restWords.length) {
+                restWords = helper.reSort(restWords);
+                tmpl.push('<div class="panel-heading" role="tab" id="panelUnlearned">',
+                    '<h4 class="panel-title">',
+                    '未掌握 ', restWords.length,
+                    '</h4></div>',
+                    // '<div id="panelUnlearned" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="panelHeadUnlearned" aria-expanded="true">',
+                    '<ul class="list-group">');
+                $.each(restWords, function(i, item) {
+                    item.repeats && tmpl.push('<li class="list-group-item list-group-item-warning">') || tmpl.push('<li class="list-group-item">');
+                    tmpl.push('<h4 class="list-group-item-heading">', item.name, '</h4>',
+                        '<p class="list-group-item-text">【', item.approx, '】', item.des, '</p>',
+                        '</li>');
+                });
+                tmpl.push('</ul>');
+            }
+
+            tmpl.push('</div>');
+
+            container.html(tmpl.join(''));
         },
         // 渲染FlashCards
         build: function(content, restWords, options, indexes, groups) {
@@ -91,6 +156,7 @@
                 restNum--;
             };
 
+            // 单词选项列表模板
             $.each(checkList, function(i, val) {
                 if (indexes[val]) {
                     checkListTmpl.push(
@@ -106,6 +172,7 @@
                 }
             });
 
+            // flashcard模板
             tmpl = ['<div class="row">',
                 '<div class="col-xs-12 col-sm-12 col-md-12">',
                 '<h1>', thisWord.name, '</h1>',
@@ -132,13 +199,17 @@
 
             learnedWords.length && localStorage.setItem('learnedWords', JSON.stringify(learnedWords));
             restWords.length && localStorage.setItem('restWords', JSON.stringify(restWords));
+
         },
 
+        // 绑定按钮事件
         bindEvent: function(container, content, restWords, options, indexes, groups) {
-            $('#reset').click(function(e) {
+
+            // bind reset
+            $('#tab_reset').click(function(e) {
                 var isconfirm = confirm('are you sure?');
-                if(isconfirm){
-                  var learnedWords = localStorage.getItem('learnedWords') ? $.parseJSON(localStorage.getItem('learnedWords')) : [];
+                if (isconfirm) {
+                    var learnedWords = localStorage.getItem('learnedWords') ? $.parseJSON(localStorage.getItem('learnedWords')) : [];
                     if (learnedWords.length) {
                         restWords = restWords.concat(learnedWords);
                         localStorage.removeItem('learnedWords');
@@ -146,55 +217,73 @@
                     }
                 }
             });
-            container.find('#get_tips').click(function(e) {
-                content.find('.tips').show('fast');
-            }).end().find('#confirm').click(function(e) {
-                if ($(this).val() !== 'next') {
-                    var list = content.find('.checklist'),
-                        thisWord = content.data('thisWord'),
-                        isRepeat = false, // 是否选错了，需重新学习
-                        wordText,
-                        isChecked;
-                    $.each(list, function(i, item) {
-                        var $item = $(item);
-                        wordText = $item.find('.word').text().replace(/\s/gi, '');
-                        isChecked = $item.find('.mk').hasClass('glyphicon-check');
-                        if (indexes[wordText].approx === thisWord.approx) {
-                            if (isChecked) {
-                                $item.addClass('list-group-item-success').find('.mk-icon').addClass('glyphicon-ok');
-                            } else {
-                                isRepeat = true;
-                                $item
-                                    .addClass('list-group-item-warning')
-                                    .find('.mk-icon')
-                                    .addClass('glyphicon-ok')
-                                    .end()
-                                    .find('.tips')
-                                    .show('fast');
-                            }
-                        } else {
-                            if (isChecked) {
-                                isRepeat = true;
-                                $item.addClass('list-group-item-danger').find('.mk-icon').addClass('glyphicon-remove').end().find('.tips').show('fast');
-                            }
-                        }
-                    });
-                    content.data('isRepeat', isRepeat);
 
-                    $(this).text('下一个').val('next');
-
-                } else {
-                    helper.build(content, restWords, options, indexes, groups);
-                    $(this).text('确定').val('confirm');
+            $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+                var tabId = $(this).attr('href'),
+                    wordListContainer = $('#wordlist');
+                if (tabId == '#wordlist') {
+                    helper.buildWordList(wordListContainer);
                 }
-
             });
+
+            // bind buttons (get tips and confirm) in flashcard
+            container.find('#get_tips').click(function(e) {
+                    content.find('.tips').show('fast');
+                })
+                .end()
+                .find('#confirm')
+                .click(function(e) {
+                    var $thisConfirm = $(this);
+                    if ($thisConfirm.val() !== 'next') {
+                        var list = content.find('.checklist'),
+                            thisWord = content.data('thisWord'),
+                            isRepeat = false, // 是否选错了，需重新学习
+                            wordText,
+                            isChecked;
+                        $.each(list, function(i, item) {
+                            var $item = $(item);
+                            wordText = $item.find('.word').text().replace(/\s/gi, '');
+                            isChecked = $item.find('.mk').hasClass('glyphicon-check');
+                            if (indexes[wordText].approx === thisWord.approx) {
+                                if (isChecked) {
+                                    $item.addClass('list-group-item-success').find('.mk-icon').addClass('glyphicon-ok');
+                                } else {
+                                    isRepeat = true;
+                                    $item
+                                        .addClass('list-group-item-warning')
+                                        .find('.mk-icon')
+                                        .addClass('glyphicon-ok')
+                                        .end()
+                                        .find('.tips')
+                                        .show('fast');
+                                }
+                            } else {
+                                if (isChecked) {
+                                    isRepeat = true;
+                                    $item.addClass('list-group-item-danger').find('.mk-icon').addClass('glyphicon-remove').end().find('.tips').show('fast');
+                                }
+                            }
+                        });
+                        content.data('isRepeat', isRepeat);
+
+                        $thisConfirm.text('下一个').val('next');
+
+                        !isRepeat && setTimeout(function(){
+                          $thisConfirm.trigger('click');
+                        }, 1000);
+
+                    } else {
+                        helper.build(content, restWords, options, indexes, groups);
+                        $thisConfirm.text('确定').val('confirm');
+                    }
+
+                });
         }
     }
     $(document).ready(function($) {
         var options = {
-            checkNumbers: 5,
-            isRandom: true
+            checkNumbers: 4, // 选项个数
+            isRandom: true // 是否随机出单词
         }
         var restWords = localStorage.getItem('restWords'),
             learnedWords = localStorage.getItem('learnedWords'),
@@ -241,7 +330,5 @@
 
 
     });
-
-
 
 })(jQuery);
